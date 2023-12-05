@@ -1,3 +1,5 @@
+## Note: This repo is being archived in favor of the same repo under the Splunk Github account from which it was forked. Changes have been commited and merged into that repo.
+
 # Quorum Dev Quickstart
 
 
